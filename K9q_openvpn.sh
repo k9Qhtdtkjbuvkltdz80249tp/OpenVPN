@@ -747,6 +747,7 @@ cert server.crt
 key server.key
 dh dh.pem
 auth SHA256
+cipher AES-256-CGM
 tls-crypt tc.key
 topology subnet
 server 10.8.0.0 255.255.255.0" > /etc/openvpn/server/server.conf
