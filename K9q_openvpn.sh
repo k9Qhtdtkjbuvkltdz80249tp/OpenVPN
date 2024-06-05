@@ -2,8 +2,7 @@
 #
 # https://github.com/k9Qhtdtkjbuvkltdz80249tp/OpenVPN
 #
-#
-# K9qAu <k9QauTwNKxZq249tR@proton.me>
+# K9qAu >>	<k9QauTwNKxZq249tR@proton.me>
 
 exiterr()  { echo "Error: $1" >&2; exit 1; }
 exiterr2() { exiterr "'apt-get install' failed."; }
